@@ -1,0 +1,35 @@
+# Blender MTL File: 'Makam Pangeran Usman.blend'
+# Material Count: 3
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.129770 0.047792 0.004831
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\abcd\\Blender\\Tempat Prasasti\\clay_roof_tiles_diff_1k.jpg
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.010370 0.004792 0.003484
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\abcd\\Blender\\Tempat Prasasti\\WhatsApp Image 2024-09-28 at 10.27.54_3b9eb2d8.jpg
+
+newmtl Material.009
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.418785 0.074678
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\abcd\\Blender\\Tempat Prasasti\\planks_brown_10_diff_1k.jpg
